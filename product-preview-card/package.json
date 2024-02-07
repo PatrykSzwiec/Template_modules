@@ -1,0 +1,17 @@
+{
+  "name": "product-preview-card",
+  "version": "1.0.0",
+  "description": "Vue.js App for product preview card component",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.13",
+    "vue": "^3.0.0"
+  }
+}
