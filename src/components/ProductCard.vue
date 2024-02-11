@@ -34,6 +34,11 @@ export default {
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700&display=swap');
+
+:root {
+  font-size: 16px; /* Set your base font size here */
+}
+
 .website {
   background-color: hsl(30, 38%, 92%);
   min-height: 100vh;
@@ -75,7 +80,7 @@ export default {
 }
 
 .product-details h1 {
-  font-size: 14px;
+  font-size: 0.875rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   letter-spacing: 5px;
